@@ -2,6 +2,33 @@ Please visit https://expertcoder1204.github.io/
 
 ![](https://i.postimg.cc/90t2vMTt/code.gif)
 
+## My personal values and work ethic
+✨ I want to build strong relationships with my clients.
+
+✨ I believe that a good working relationship is built on mutual trust and respect.
+
+✨ I value open communication and strive to keep you updated on progress every step of the way.
+
+✨ I am a team player and enjoy collaborating with others to achieve a common goal.
+
+✨ Outside of work, I am an avid sports fan, especially when it comes to football.
+
+✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
+
+## Rapidfire  
+<table><tr><td valign="top" width="100%">
+
+- 🔭 I’m currently working on [Business Website Deveopment](https://github.com/expertcoder1204)  
+  
+
+- 🌱 I’m currently building business websites using Next.js, Typescript, Tailwind CSS.  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I keep night shift swithed on at all times   
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
