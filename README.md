@@ -29,6 +29,9 @@ Please visit https://expertcoder1204.github.io/
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
+</td></tr></table>  
+
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
