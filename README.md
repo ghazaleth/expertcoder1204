@@ -1,3 +1,24 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": 0
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+             [-121.8, 37.2],
+             [-121.91,37.4]
+         ]
+       ]
+     }
+   }
+ ]
+}
 
 <div align="center">
   <picture>
