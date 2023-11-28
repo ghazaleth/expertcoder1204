@@ -6,30 +6,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [-121.8, 37.2],
-             [-121.91,37.4]
-         ]
-       ]
-     }
-   }
- ]
-}
 
-```
 ![](https://i.postimg.cc/90t2vMTt/code.gif)
 
 ## My personal values and work ethic
