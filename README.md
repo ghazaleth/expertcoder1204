@@ -1,3 +1,4 @@
+Please visit https://expertcoder1204.github.io/
 
 <div align="center">
   <picture>
@@ -106,7 +107,6 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
 </div>  
-Please visit https://expertcoder1204.github.io/
 
 # Do you want to see my past work?
 ## Posting Website
