@@ -8,7 +8,7 @@ Please visit https://expertcoder1204.github.io/
   </picture>
 </div>
 
-![](https://i.postimg.cc/90t2vMTt/code.gif)
+![](https://i.postimg.cc/zGRqQynT/code.gif)
 
 ## My personal values and work ethic
 ✨ I want to build strong relationships with my clients.
